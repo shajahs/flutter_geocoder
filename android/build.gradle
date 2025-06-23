@@ -27,6 +27,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 28
+    namespace "com.aloisdeniel.geocoder"
     //buildToolsVersion '28.0.3'
 
     defaultConfig {
